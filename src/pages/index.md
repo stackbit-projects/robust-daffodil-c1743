@@ -11,7 +11,7 @@ sections:
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
     actions:
-      - title: ''
+      - title: Bienvenue Sur Le Groupe La Poste
         url: /store
         arrow: true
   - type: featured_products_section
